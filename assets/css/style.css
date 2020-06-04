@@ -1,0 +1,32 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+		Helvetica, Arial, "Lucida Grande", sans-serif;
+	background-color: #F1F9FB;
+
+}
+
+.navbar-nav a {
+	font-size: 16px;
+
+	font-weight: bold;
+	margin-right: 50px;
+
+}
+
+.navbar {
+	top: -200px;
+	transition: top 0.3s;
+
+
+}
+
+.star-rating li {
+	padding: 0;
+}
+
+.star-rating i {
+	font-size: 14px;
+	color: #ffd54d;
+}
